@@ -17,7 +17,6 @@ public class Main {
         }
     }
 
-
     private static void newPersonFromConsole() throws IOException {
         Scanner sc = new Scanner(System.in);
         System.out.println("Adja meg a nevét: ");
